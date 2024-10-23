@@ -1,3 +1,3 @@
-# csci290
+# CSCI 290
 
 Data Mining, Advent 2024
